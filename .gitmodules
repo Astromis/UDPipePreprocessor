@@ -1,0 +1,3 @@
+[submodule "SentenceGraph"]
+	path = SentenceGraph
+	url = https://github.com/Astromis/SentenceGraph
